@@ -1,6 +1,6 @@
 <h2>Happentance</h2>
 
-<a href=""><img src=""></a>
+<a href=""><img src="happenstance.png"></a>
 
 <h2>Hyundai</h2>
 
